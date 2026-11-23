@@ -1,0 +1,13 @@
+__pycache__/
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+# 개인 목소리 데이터와 결과물은 커밋하지 않음
+voices/
+output*
+*.wav
+*.mp3
+*.m4a
+*.srt
+*.pt
